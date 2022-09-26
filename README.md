@@ -50,6 +50,10 @@ PLEX\_Claim:&#x20;
 
 * This will be your plex token as shown in the photo you will need to go to that link in order to get your token and enter it there.
 
+Media:
+
+* This is where you will be pointing plex to your media. If you select the drop-down you can use it to go in and out of shares to direct them to your main media folder. It's best to point it to a general "media" folder where inside it consists of your media separated into its categories. Eg. TVshows, movies, videos, etc.
+
 Transcode:
 
 * Personally, this is optional normally it will by default set it to "/transcode" but by changing it to "/tmp" we can actually move this transcoding process to the ram which can alleviate a lot of pressure on the disk drives and may increase overall performance.
