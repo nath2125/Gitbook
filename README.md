@@ -44,7 +44,7 @@ Most of the configuration here doesn't need to be changed because the default se
 
 Disclaimer\* Any changes I list here would be the only ones recommended to be changed and leave the rest alone.
 
-**Changes List:**
+<mark style="color:purple;">**Changes List:**</mark>
 
 PLEX\_Claim:&#x20;
 
@@ -52,7 +52,21 @@ PLEX\_Claim:&#x20;
 
 Transcode:
 
-* Personally, this is optional normally it will by default set it to "/transcode" but by changing it to "/tmp" we can actually move this transcoding process to the ram which can alleviate a lot of pressure on the disk drives.
+* Personally, this is optional normally it will by default set it to "/transcode" but by changing it to "/tmp" we can actually move this transcoding process to the ram which can alleviate a lot of pressure on the disk drives and may increase overall performance.
+
+<mark style="color:purple;">These listed below should be removed to decrease confliction issues:</mark>
+
+* <mark style="color:purple;">Path: /tv:\*</mark>
+* <mark style="color:purple;">Path: /movies:\*</mark>
+* <mark style="color:purple;">DVB Device: (This one only remove if you don't have a TV Tuner Installed)</mark>
+
+<mark style="color:purple;">They can be removed by simply pressing the remove button next to the field.</mark>
+
+Appdata:
+
+* You can leave this by default to what it has preset as I have done, but if you would like it in a separate spot or move it elsewhere this is the field you want to be changing. This is where the data files for the container/application will live.
+
+Once you have done and reviewed all these, you can press "apply" and let the install run until it says to exit out.
 
 ## <mark style="color:red;">Download Link</mark>
 
