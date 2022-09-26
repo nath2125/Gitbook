@@ -122,4 +122,4 @@ Tools for each of these will be found below the according category.
 
 ## Download Link:
 
-If you are interested in downloading you can download [here](https://unraid.net/download)! and follow the guide to install!
+If you are interested in downloading you can download [here](https://unraid.net/download)! and follow the guide to instal!
