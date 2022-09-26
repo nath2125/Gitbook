@@ -4,13 +4,13 @@ description: Overview/Guide/Implementation
 
 # Unraid OS
 
-## Overview:
+## <mark style="color:red;">Overview:</mark>
 
 Unraid is a Linux based operating system created for media aficionados, gamers, data pursuers, and other intensive data-users to have the ultimate control over their data, media, applications and desktops whilst using any sort of hardware combination.
 
 <figure><img src=".gitbook/assets/111111 (1) (2).PNG" alt=""><figcaption><p>Unraid Product Page</p></figcaption></figure>
 
-## Unraid Home Page
+## <mark style="color:red;">Unraid Home Page</mark>
 
 <figure><img src=".gitbook/assets/111111 (1) (1).PNG" alt=""><figcaption><p>Unraid Homepage</p></figcaption></figure>
 
@@ -24,7 +24,7 @@ Cache drive can also be used, normally done with an ssd to help transfer speeds 
 
 In the middle column you will find all the containers, virtual machines and shares that have been created. Most of these windows/widgets can be customised and moved around to your likeing.
 
-## Main
+## <mark style="color:red;">Main</mark>
 
 <figure><img src=".gitbook/assets/111111 (2).PNG" alt=""><figcaption><p>Unraid Main Page</p></figcaption></figure>
 
@@ -38,7 +38,7 @@ In here you can:
 * Reboot, shutdown and sleep the server/drives
 * Access to all disks, caches and drive pools
 
-## Shares
+## <mark style="color:red;">Shares</mark>
 
 <figure><img src=".gitbook/assets/111111.PNG" alt=""><figcaption><p>Unraid Shares Page</p></figcaption></figure>
 
@@ -46,13 +46,13 @@ The shares page will consist of your shares. These are almost like folders in a 
 
 Other information is here also like what format the share is currently being exported out too, if its using a cache drive, how much space from the disks is being allocated to that share and as well as what is actually consisting in those shares in real time using the view option on the ride side of the share.
 
-## Users
+## <mark style="color:red;">Users</mark>
 
 <figure><img src=".gitbook/assets/111111 (8).PNG" alt=""><figcaption><p>Unraid Users Page</p></figcaption></figure>
 
 In here will consist of any user accounts you create for unraid, these account will be able to access the unraid webgui and also can be adjusted to allow certain users to have access to shares and for transfers and read and write privileges within those shares.
 
-## Settings
+## <mark style="color:red;">Settings</mark>
 
 <figure><img src=".gitbook/assets/111111 (7).PNG" alt=""><figcaption><p>Unraid Settings Page</p></figcaption></figure>
 
@@ -73,7 +73,7 @@ User Preferences is more about how the os looks, how tasks/events are scheduled,
 
 User Utilities will show things that can help improve or use the OS better. Like auto app updates, backup/restore, stats, etc. Most plugins that you may install could leave a icon in here as a quick short cut for access.
 
-## Plugins
+## <mark style="color:red;">Plugins</mark>
 
 <figure><img src=".gitbook/assets/111111 (4).PNG" alt=""><figcaption><p>Unraid Plugins Page</p></figcaption></figure>
 
@@ -81,7 +81,7 @@ Plugins page will consist of installed plugins that would have installed via app
 
 This tab is pretty self-explainitory :smile:.
 
-## Docker
+## <mark style="color:red;">Docker</mark>
 
 <figure><img src=".gitbook/assets/111111 (1).PNG" alt=""><figcaption><p>Unraid Docker Tab</p></figcaption></figure>
 
@@ -91,13 +91,13 @@ It will display information like name, the port number its on, the amount of cpu
 
 Any configuration, information or monitoring of your containers will most likely be done in here.
 
-## VMS
+## <mark style="color:red;">VMS</mark>
 
 <figure><img src=".gitbook/assets/111111 (6).PNG" alt=""><figcaption><p>Unraid VMs Page</p></figcaption></figure>
 
 VMs page quite self-explainitory also in that this is where you will create, modify and delete any virtual machines you create.
 
-## Apps
+## <mark style="color:red;">Apps</mark>
 
 <figure><img src=".gitbook/assets/111111 (5).PNG" alt=""><figcaption><p>Unraid Apps Page</p></figcaption></figure>
 
@@ -105,7 +105,7 @@ Apps page this is the big marketplace where you can search and install applicati
 
 Once installed you will then be able to configure the presettings of the container before it makes the full install onto your machine!
 
-## Tools
+## <mark style="color:red;">Tools</mark>
 
 <figure><img src=".gitbook/assets/111111 (3).PNG" alt=""><figcaption><p>Unraid Tools Page</p></figcaption></figure>
 
@@ -120,6 +120,6 @@ Things like:
 
 Tools for each of these will be found below the according category.
 
-## Download Link:
+## <mark style="color:red;">Download Link:</mark>
 
 If you are interested in downloading you can download [here](https://unraid.net/download)! and follow the guide to instal!
