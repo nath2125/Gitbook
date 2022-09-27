@@ -36,9 +36,9 @@ Personally, for me I like the one that is authored by the "linuxserver" team, th
 
 This next process may get a little tricky and possibly hard to understand some terms or configurations, so best to be patient and bare with me whilst I explain.
 
-<figure><img src=".gitbook/assets/1111111111 (2) (1).PNG" alt=""><figcaption><p>Page 1</p></figcaption></figure>
+<figure><img src=".gitbook/assets/1111111111 (2) (1) (2).PNG" alt=""><figcaption><p>Page 1</p></figcaption></figure>
 
-<figure><img src=".gitbook/assets/222222222222 (1).PNG" alt=""><figcaption><p>Page 2</p></figcaption></figure>
+<figure><img src=".gitbook/assets/222222222222 (1) (1).PNG" alt=""><figcaption><p>Page 2</p></figcaption></figure>
 
 Most of the configuration here doesn't need to be changed because the default settings will work fine since the authors try to make the installation process easy as possible.&#x20;
 
@@ -80,13 +80,13 @@ Once the installation is completed you will want to go to your "docker" tab and 
 
 Once you head over to the plex WebUI it may ask you to sign in, in which case you should also create and sign in with a plex account if you haven't already created one. Once that is done you will head over to a screen something like this.
 
-<figure><img src=".gitbook/assets/1111111111 (2).PNG" alt=""><figcaption><p>Plex server setup</p></figcaption></figure>
+<figure><img src=".gitbook/assets/1111111111 (2) (1).PNG" alt=""><figcaption><p>Plex server setup</p></figcaption></figure>
 
 Here you will want to name your server, you can leave it with the name it has given you but it's preferred to make it something of your own choosing. <mark style="color:purple;">If you want to be able to access your media remotely outside your house via the plex app on your chosen device, keep the tick box ticked for "Allow me to access my media outside my home".</mark> After this click "next".
 
 <figure><img src=".gitbook/assets/1111111111 (3).PNG" alt=""><figcaption></figcaption></figure>
 
-<figure><img src=".gitbook/assets/222222222222.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/222222222222 (2).PNG" alt=""><figcaption></figcaption></figure>
 
 Once you hit these screens here you are basically letting plex know what media type you are adding and where the media is located. This is where we give it the specific location for that type of media, <mark style="color:purple;">not the same general location as in the unraid plex config setup</mark>.&#x20;
 
