@@ -8,7 +8,7 @@ description: Overview/Unraid Install Guide
 
 Plex is a media streaming service that is client-server side based, in contrast to your traditional streaming platforms like Netflix or Stan. Plex is a self-hosted client and can be used to host/stream the media content you own at home already. The plex software creates a convenience to allow any of your media to be easily streamed to any devices that the plex software supports, within your network or even outside your own home.
 
-<figure><img src=".gitbook/assets/1111111111 (2) (1).PNG" alt=""><figcaption><p>Plex.tv Homepage</p></figcaption></figure>
+<figure><img src=".gitbook/assets/1111111111 (2) (1) (1).PNG" alt=""><figcaption><p>Plex.tv Homepage</p></figcaption></figure>
 
 ## <mark style="color:red;">Install Guide For Unraid</mark>
 
@@ -30,13 +30,13 @@ There will be quite a few that come up from different authors, they all sort of 
 
 Personally, for me I like the one that is authored by the "linuxserver" team, they haven't let me down in the past,  and never had issues with them. But they all will mostly work regardless so if you would like to choose a different one you can by the installation process may differ slightly.
 
-<figure><img src=".gitbook/assets/1111111111 (1).PNG" alt=""><figcaption><p>Search for "Plex" in Apps</p></figcaption></figure>
+<figure><img src=".gitbook/assets/1111111111 (1) (1).PNG" alt=""><figcaption><p>Search for "Plex" in Apps</p></figcaption></figure>
 
 ### <mark style="color:red;">Configuring Plex Install</mark>
 
 This next process may get a little tricky and possibly hard to understand some terms or configurations, so best to be patient and bare with me whilst I explain.
 
-<figure><img src=".gitbook/assets/1111111111 (2).PNG" alt=""><figcaption><p>Page 1</p></figcaption></figure>
+<figure><img src=".gitbook/assets/1111111111 (2) (1).PNG" alt=""><figcaption><p>Page 1</p></figcaption></figure>
 
 <figure><img src=".gitbook/assets/222222222222 (1).PNG" alt=""><figcaption><p>Page 2</p></figcaption></figure>
 
@@ -76,11 +76,11 @@ Once you have done and reviewed all these, you can press "apply" and let the ins
 
 Once the installation is completed you will want to go to your "docker" tab and find plex proceed to click and select WebUI, where it will take you through the plex media server setup guide to getting your plex online and reading your media.
 
-<figure><img src=".gitbook/assets/1111111111 (4).PNG" alt=""><figcaption><p>Plex within docker</p></figcaption></figure>
+<figure><img src=".gitbook/assets/1111111111 (4) (1).PNG" alt=""><figcaption><p>Plex within docker</p></figcaption></figure>
 
 Once you head over to the plex WebUI it may ask you to sign in, in which case you should also create and sign in with a plex account if you haven't already created one. Once that is done you will head over to a screen something like this.
 
-<figure><img src=".gitbook/assets/1111111111.PNG" alt=""><figcaption><p>Plex server setup</p></figcaption></figure>
+<figure><img src=".gitbook/assets/1111111111 (2).PNG" alt=""><figcaption><p>Plex server setup</p></figcaption></figure>
 
 Here you will want to name your server, you can leave it with the name it has given you but it's preferred to make it something of your own choosing. <mark style="color:purple;">If you want to be able to access your media remotely outside your house via the plex app on your chosen device, keep the tick box ticked for "Allow me to access my media outside my home".</mark> After this click "next".
 
