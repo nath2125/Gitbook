@@ -24,7 +24,7 @@ Sometimes there may also be problems where it can't reach outside the network. T
 
 ## <mark style="color:red;">Library</mark>
 
-<figure><img src=".gitbook/assets/1111111111.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/1111111111 (1).PNG" alt=""><figcaption></figcaption></figure>
 
 <figure><img src=".gitbook/assets/222222222222 (1).PNG" alt=""><figcaption></figcaption></figure>
 
@@ -32,7 +32,7 @@ These settings here are to do with your media library can be adusted around your
 
 ## <mark style="color:red;">Network</mark>
 
-<figure><img src=".gitbook/assets/1111111111 (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/1111111111 (1) (3).PNG" alt=""><figcaption></figcaption></figure>
 
 <figure><img src=".gitbook/assets/222222222222.PNG" alt=""><figcaption></figcaption></figure>
 
@@ -66,4 +66,33 @@ Transcoder default throttle buffer:
 
 Maximum video transcodes:
 
-* This setting is for restricting the number of devices that can have transcoding content being streamed to it. Depending on the hardware it can bottle neck and cause overall performance issues, so it's recommended to test and find a nice number that doesn't cause too many issues with your overall machine.
+* This setting is for restricting the number of devices that can have transcoding content being streamed to it. Depending on the hardware it can bottleneck and cause overall performance issues, so it's recommended to test and find a nice number that doesn't cause too many issues with your overall machine.
+
+## <mark style="color:red;">Scheduled Tasks</mark>
+
+<figure><img src=".gitbook/assets/1111111111 (3).PNG" alt=""><figcaption></figcaption></figure>
+
+This one has to do with more preset tasks that plex will run for you but now allows for more customisation as to when these will occur.
+
+These are my recommendations to keep plex running fluidly but also these are again up to the personal preference of the server owner and how they wanna run their media.
+
+## <mark style="color:red;">Libraries</mark>
+
+<figure><img src=".gitbook/assets/1111111111.PNG" alt=""><figcaption></figcaption></figure>
+
+This is where your library categories live and display how they will be structured on the plex homepage and for your client/viewers. Within each you can adjust different categories for each type of media.&#x20;
+
+Eg.
+
+* Movies can have different categories genre, year created, author, director, actors, etc.
+
+You can then take these "categories and drag and drop" them around in order of how you want them to be displayed. This is again personal preference, and probably best for you to further look yourself to fully understand how much customisation there can be.&#x20;
+
+<mark style="color:purple;">Il add in here, I have created an article blog on</mark> ["Plex Meta Manager"](https://app.gitbook.com/o/UlTmFaF7PSfhBNuKtcaC/s/XhEyf0WtMngrQlcUAQw6/)<mark style="color:purple;">, this is a really good application and can also automate a lot of the categories by creating a script that can:</mark>
+
+* <mark style="color:purple;">auto add categories based on any filters you like</mark>
+* <mark style="color:purple;">playlists from online</mark>
+* <mark style="color:purple;">adding certain thumbnails to shows or movies</mark>
+* <mark style="color:purple;">etc.</mark>
+
+<mark style="color:purple;"></mark>
