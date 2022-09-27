@@ -10,7 +10,7 @@ You want to be making sure for optimal streaming quality that the "video quality
 
 ## <mark style="color:red;">Plex Dashboard</mark>
 
-<figure><img src=".gitbook/assets/1111111111 (4) (2).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/1111111111 (4).PNG" alt=""><figcaption></figcaption></figure>
 
 Plex dashboard is where all the general information about what is going on with your plex media server is going to be. Information about current real-time media being played/streamed, stats about bandwidth, CPU, ram, storage, stats on user viewing, and most viewed content.
 
@@ -70,7 +70,7 @@ Maximum video transcodes:
 
 ## <mark style="color:red;">Scheduled Tasks</mark>
 
-<figure><img src=".gitbook/assets/1111111111 (3).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/1111111111 (3) (1).PNG" alt=""><figcaption></figcaption></figure>
 
 This one has to do with more preset tasks that plex will run for you but now allows for more customisation as to when these will occur.
 
@@ -78,7 +78,7 @@ These are my recommendations to keep plex running fluidly but also these are aga
 
 ## <mark style="color:red;">Libraries</mark>
 
-<figure><img src=".gitbook/assets/1111111111.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/1111111111 (3).PNG" alt=""><figcaption></figcaption></figure>
 
 This is where your library categories live and display how they will be structured on the plex homepage and for your client/viewers. Within each you can adjust different categories for each type of media.&#x20;
 
@@ -97,6 +97,8 @@ You can then take these "categories and drag and drop" them around in order of h
 
 ## <mark style="color:red;">Troubleshooting</mark>
 
-<figure><img src=".gitbook/assets/1111111111 (4).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/1111111111.PNG" alt=""><figcaption></figcaption></figure>
 
 Lucky last, this is where you will find the functions to help troubleshoot issues you may come across throughout your usage of plex.&#x20;
+
+If you have made it this far, thank you for your patients and for your determination to have your plex become the best possible streaming platform it can possibly become!!

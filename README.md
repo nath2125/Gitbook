@@ -86,7 +86,7 @@ Once you head over to the plex WebUI it may ask you to sign in, in which case yo
 
 Here you will want to name your server, you can leave it with the name it has given you but it's preferred to make it something of your own choosing. <mark style="color:purple;">If you want to be able to access your media remotely outside your house via the plex app on your chosen device, keep the tick box ticked for "Allow me to access my media outside my home".</mark> After this click "next".
 
-<figure><img src=".gitbook/assets/1111111111 (3) (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/1111111111 (3) (1) (1).PNG" alt=""><figcaption></figcaption></figure>
 
 <figure><img src=".gitbook/assets/222222222222 (2).PNG" alt=""><figcaption></figcaption></figure>
 
