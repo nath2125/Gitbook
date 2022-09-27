@@ -10,7 +10,7 @@ You want to be making sure for optimal streaming quality that the "video quality
 
 ## <mark style="color:red;">Plex Dashboard</mark>
 
-<figure><img src=".gitbook/assets/1111111111 (4) (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/1111111111 (4) (2).PNG" alt=""><figcaption></figcaption></figure>
 
 Plex dashboard is where all the general information about what is going on with your plex media server is going to be. Information about current real-time media being played/streamed, stats about bandwidth, CPU, ram, storage, stats on user viewing, and most viewed content.
 
