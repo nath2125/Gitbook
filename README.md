@@ -8,6 +8,8 @@ description: Overview/Unraid Install Guide
 
 Plex is a media streaming service that is client-server side based, in contrast to your traditional streaming platforms like Netflix or Stan. Plex is a self-hosted client and can be used to host/stream the media content you own at home already. The plex software creates a convenience to allow any of your media to be easily streamed to any devices that the plex software supports, within your network or even outside your own home.
 
+<mark style="color:purple;">Disclaimer\* This is using the full pass/license edition of plex, somethings may not be accessible or limited if you don't own or pay for it. Check out their pricing</mark> [<mark style="color:purple;">here</mark>](https://www.plex.tv/en-au/plex-pass/)<mark style="color:purple;">.</mark>
+
 <figure><img src=".gitbook/assets/1111111111 (2) (1) (1).PNG" alt=""><figcaption><p>Plex.tv Homepage</p></figcaption></figure>
 
 ## <mark style="color:red;">Install Guide For Unraid</mark>
@@ -76,7 +78,7 @@ Once you have done and reviewed all these, you can press "apply" and let the ins
 
 Once the installation is completed you will want to go to your "docker" tab and find plex proceed to click and select WebUI, where it will take you through the plex media server setup guide to getting your plex online and reading your media.
 
-<figure><img src=".gitbook/assets/1111111111 (4) (1).PNG" alt=""><figcaption><p>Plex within docker</p></figcaption></figure>
+<figure><img src=".gitbook/assets/1111111111 (4) (1) (1).PNG" alt=""><figcaption><p>Plex within docker</p></figcaption></figure>
 
 Once you head over to the plex WebUI it may ask you to sign in, in which case you should also create and sign in with a plex account if you haven't already created one. Once that is done you will head over to a screen something like this.
 

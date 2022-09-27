@@ -10,7 +10,7 @@ You want to be making sure for optimal streaming quality that the "video quality
 
 ## <mark style="color:red;">Plex Dashboard</mark>
 
-<figure><img src=".gitbook/assets/1111111111 (4).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/1111111111 (4) (1).PNG" alt=""><figcaption></figcaption></figure>
 
 Plex dashboard is where all the general information about what is going on with your plex media server is going to be. Information about current real-time media being played/streamed, stats about bandwidth, CPU, ram, storage, stats on user viewing, and most viewed content.
 
@@ -95,4 +95,8 @@ You can then take these "categories and drag and drop" them around in order of h
 * <mark style="color:purple;">adding certain thumbnails to shows or movies</mark>
 * <mark style="color:purple;">etc.</mark>
 
-<mark style="color:purple;"></mark>
+## <mark style="color:red;">Troubleshooting</mark>
+
+<figure><img src=".gitbook/assets/1111111111 (4).PNG" alt=""><figcaption></figcaption></figure>
+
+Lucky last, this is where you will find the functions to help troubleshoot issues you may come across throughout your usage of plex.&#x20;
