@@ -4,11 +4,17 @@ description: Some example YAML configs for HomePage
 
 # Example YAML configs
 
+## <mark style="color:red;">Overall Example of dashboard:</mark>
+
+<figure><img src=".gitbook/assets/image (2).png" alt=""><figcaption><p>Example Dashboard</p></figcaption></figure>
+
+<mark style="color:purple;">These are the seperate yaml file examples that made up this dashboard. These can be edited and used with your own configuration to be able to use these services.</mark>
+
 ## <mark style="color:red;">Services.yaml:</mark>
 
 ### <mark style="color:red;">Example Dashboard:</mark>
 
-<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption><p>Example Dashboard</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Example Services</p></figcaption></figure>
 
 ### <mark style="color:red;">Code:</mark>
 
@@ -111,6 +117,44 @@ description: Some example YAML configs for HomePage
   * `href: YOURIPADDRESS:PORT`
   * `description: NginxProxyManager`
 
-***
+## <mark style="color:red;">Widgets.yaml</mark>
 
-##
+### <mark style="color:red;">Example Dashboard:</mark>
+
+<figure><img src=".gitbook/assets/image.png" alt=""><figcaption><p>Example Widgets</p></figcaption></figure>
+
+### <mark style="color:red;">Code:</mark>
+
+`resources:`
+
+* `label: System Performance`
+* `cpu: true memory: true`
+
+`resources:`
+
+* `label: Storage`
+* `disk: /mnt/storage`
+
+`weatherapi:`
+
+* `label: Your location # optional`
+* `latitude: -33.732819`
+* `longitude: 151.00496`
+* `units: metric`
+* `apiKey: 5cbb6cae30e6452ab4f130401220311`
+* `cache: 5 # Time in minutes to cache API responses, to stay within limits`
+
+`datetime:`
+
+* `text_size: x1`
+* `format:`
+  * `timeStyle: short`
+  * `hour12: true`
+  * `dateStyle: short`
+
+`search:`
+
+* `provider: google`&#x20;
+* `target: _blank`
+
+<mark style="color:red;"></mark>

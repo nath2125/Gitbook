@@ -8,7 +8,7 @@ description: Overview/Guide/Implementation
 
 Homepage is simplisic centralised dashboard for all your docker, containers and applications to be accessed in one location. The dashboard has integration with over 25 different services and easily configurable with YAML config files.
 
-<figure><img src=".gitbook/assets/image.png" alt=""><figcaption><p>Homepage Dashboard Example</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption><p>Homepage Dashboard Example</p></figcaption></figure>
 
 ## <mark style="color:red;">Features:</mark>
 
