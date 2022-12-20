@@ -1,3 +1,3 @@
 # Table of contents
 
-* [Httrack Website Archiver](README.md)
+* [HTTrack Website Archiver](README.md)
