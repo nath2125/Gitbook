@@ -22,11 +22,11 @@ For this installation process, it will be quite easy since its already ready wit
 
 Firstly, you want to access the community appstore within unraid and search for Httrack and should look something like this.
 
-<figure><img src=".gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 Once here you can hit action and then install and you will be brought to an installation template page.
 
-<figure><img src=".gitbook/assets/image.png" alt=""><figcaption><p>Installation Template via unraid</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (5).png" alt=""><figcaption><p>Installation Template via unraid</p></figcaption></figure>
 
 Here you can keep it pretty default in terms of settings other than inputting where you want the website archives to be stored which will need to be up to you. After that, you are all done and ready to install let the program install and open the WebUI and start archiving.&#x20;
 
@@ -45,5 +45,15 @@ whilst still, in the install template, you want to click the basic view slider a
 Probably best also to put that number you replace "3000" within with the WebUI address and replace that default port number in case there's any confusion from the application. After that, you are all done and ready to install let the program install and open the WebUI and start archiving.
 
 ## <mark style="color:red;">Usage Guide:</mark>
+
+This is your Starting Page. Following through this guide is pretty easy and will get you on your way to start achieving websites.
+
+<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+You want to either create or select an existing project your want these html webpages to be saved in.
+
+<figure><img src=".gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+
+After this, you will be given a page to attach the links to the website and then will start the process as seen below. Once this is done you will be at the end and you will be able to go now access your offline website HTML via an index link that is attached to the HTTack container.
 
 <figure><img src=".gitbook/assets/image (3).png" alt=""><figcaption><p>Copier In Progress</p></figcaption></figure>
